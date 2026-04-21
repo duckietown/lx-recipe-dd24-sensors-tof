@@ -1,0 +1,15 @@
+# ROS2 Jazzy base packages
+ros-jazzy-ros-base
+ros-jazzy-rclpy
+ros-jazzy-std-msgs
+ros-jazzy-std-srvs
+ros-jazzy-geometry-msgs
+ros-jazzy-sensor-msgs
+
+# MAVROS2 and PX4 support
+ros-jazzy-mavros
+ros-jazzy-mavros-msgs
+ros-jazzy-mavros-extras
+
+# colcon build tools
+python3-colcon-common-extensions
