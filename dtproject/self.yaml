@@ -1,4 +1,4 @@
-name: "lx-recipe-dd24-sensors-tof"
+name: "lx-dd-sensors-tof-recipe"
 maintainer:
     name: "Duckietown"
     email: "info@duckietown.com"
